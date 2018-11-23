@@ -6,7 +6,7 @@ This repo demonstrates a simple way using to ensure that Maven dependencies can 
 
 * The change in classpath can be easily reviewed and the change then approved (ie accepted) if it was intentional.
 
-The implementation is very simple, using the JUnit, the link:http://approvaltests.com[Approval Tests] library, and the link:https://maven.apache.org/plugins/maven-dependency-plugin/[Maven dependency plugin].
+The implementation is very simple, using the JUnit, the link:https://github.com/approvals/ApprovalTests.Java[Approval Tests] library, and the link:https://maven.apache.org/plugins/maven-dependency-plugin/[Maven dependency plugin].
 
 To demo:
 
