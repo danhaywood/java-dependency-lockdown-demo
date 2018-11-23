@@ -1,0 +1,22 @@
+
+   aopalliance:aopalliance:jar:1.0:compile
+   com.approvaltests:approvaltests-util:jar:2.0.0:test
+   com.approvaltests:approvaltests:jar:2.0.0:test
+   com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5:compile
+   com.fasterxml.jackson.core:jackson-core:jar:2.9.5:compile
+   com.fasterxml.jackson.core:jackson-databind:jar:2.9.5:compile
+   com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.9.5:compile
+   com.google.guava:guava:jar:21.0:compile
+   com.google.inject:guice:jar:4.1.0:compile
+   commons-cli:commons-cli:jar:1.4:compile
+   io.swagger:swagger-annotations:jar:1.5.21:compile
+   io.swagger:swagger-core:jar:1.5.21:compile
+   io.swagger:swagger-models:jar:1.5.21:compile
+   javax.inject:javax.inject:jar:1:compile
+   javax.validation:validation-api:jar:1.1.0.Final:compile
+   junit:junit:jar:4.12:test
+   org.apache.commons:commons-lang3:jar:3.2.1:compile
+   org.hamcrest:hamcrest-core:jar:1.3:test
+   org.slf4j:slf4j-api:jar:1.7.22:compile
+   org.yaml:snakeyaml:jar:1.18:compile
+The following files have been resolved:
