@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.danhaywood.ljcunconf2018</groupId>
-    <artifactId>ljc-unconf2018-dependency-lockdown-demo</artifactId>
+    <groupId>com.danhaywood.java</groupId>
+    <artifactId>dependency-lockdown-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
@@ -82,7 +82,7 @@
                                     <goal>list</goal>
                                 </goals>
                                 <configuration>
-                                    <outputFile>${project.build.directory}/test-classes/com/danhaywood/ljcunconf2018/dependency/lockdown/LockDownMavenDeps_Test.list.actual.txt</outputFile>
+                                    <outputFile>${project.build.directory}/test-classes/com/danhaywood/java/dependency/lockdown/LockDownMavenDeps_Test.list.actual.txt</outputFile>
                                 </configuration>
                             </execution>
                             <execution>
@@ -92,7 +92,7 @@
                                     <goal>tree</goal>
                                 </goals>
                                 <configuration>
-                                    <outputFile>${project.build.directory}/test-classes/com/danhaywood/ljcunconf2018/dependency/lockdown/LockDownMavenDeps_Test.tree.actual.txt</outputFile>
+                                    <outputFile>${project.build.directory}/test-classes/com/danhaywood/java/dependency/lockdown/LockDownMavenDeps_Test.tree.actual.txt</outputFile>
                                 </configuration>
                             </execution>
                         </executions>

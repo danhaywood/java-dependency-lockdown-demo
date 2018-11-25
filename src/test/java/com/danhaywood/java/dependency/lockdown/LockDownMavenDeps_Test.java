@@ -1,4 +1,4 @@
-package com.danhaywood.ljcunconf2018.dependency.lockdown;
+package com.danhaywood.java.dependency.lockdown;
 
 import java.io.IOException;
 import java.net.URL;
