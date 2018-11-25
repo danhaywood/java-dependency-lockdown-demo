@@ -1,4 +1,4 @@
-= Maven Dependency Lockdown
+= Dependency Lockdown
 
 This repo demonstrates a simple way using to ensure that Maven dependencies can be locked down.
 
